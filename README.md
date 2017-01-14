@@ -13,3 +13,4 @@ docker run \
 ```
 ## How to query the Neo4j database
 https://neo4j.com/docs/cypher-refcard/current/
+See https://github.com/sahuguet/influenza/blob/master/queries.cypher for some examples.
