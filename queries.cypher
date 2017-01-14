@@ -1,4 +1,4 @@
--- Find orgs that have some issues with Doj and who are lending money to people with influnce over DoJ.
+-- Find orgs that have some issues with Doj and are lending money to people with influence over DoJ.
 MATCH (doj:`Government Organization` {name:"Department of Justice"})
 MATCH (doj)-[r:`Regulatory Action`]->(org:`Private Sector Organization`)
 MATCH (org)-[d:Debt]->(org2:`Private Sector Organization`)
