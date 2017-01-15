@@ -1,4 +1,6 @@
 
+echo "Filtering nodes"
+
 head -1 nodes.csv | perl -pe's/ //g' > /tmp/nodes_cabinet_positions.csv
 grep '^Cabinet Position' nodes.csv >> /tmp/nodes_cabinet_positions.csv
 
@@ -21,4 +23,6 @@ grep '^Private Sector Company' nodes.csv >> /tmp/nodes_companies.csv
 head -1 nodes.csv | perl -pe's/ //g' > /tmp/nodes_universities.csv
 grep '^Private University' nodes.csv >> /tmp/nodes_universities.csv
 grep '^Public University' nodes.csv >> /tmp/nodes_universities.csv
+
+echo "Filtered nodes"
 
