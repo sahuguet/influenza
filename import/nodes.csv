@@ -11,7 +11,7 @@ Person,Stephen Miller,Q889598,,,,Senior Advisor to the President for Policy,,
 Person,Jared Kushner,Q13628723,,,,Senior Advisor to the President for Strategic Planning,,
 Person,Dina Powell,Q3278769,,,,Senior Counselor to the President for Economic Initiatives,,
 Person,Anthony Scaramucci,Q4773428,,,,Senior Advisor to the President for Public Liaison Intergovernmental Affairs,,
-Person,Rudy Giuliani,Q212648,,,,Cybersecurity Advisor,,
+Person,Rudy Giuliani,Q983428,,,,Cybersecurity Advisor,,
 Person,Michael Flynn,Q6830341,,,,National Security Advisor,,
 Person,K. T. McFarland,Q6376920,,,,Deputy National Security Advisor,,
 Person,Monica Crowley,Q6899924,,,,Deputy National Security Advisor for Strategic Communications and Speechwriting,,
@@ -95,26 +95,26 @@ Person,Kirsten E. Gillibrand,Q22222,,,,Senator,,NY
 Person,Al Franken,Q319084,,,,Senator,,MN
 Person,Christopher A. Coons,Q923242,,,,Senator,,DE
 Person,"Joe Manchin, III",Q538868,,,,Senator,,WV
-Person,Robert B. Aderholt,,,,,Representative,,AL
+Person,Robert B. Aderholt,Q672671,,,,Representative,,AL
 Person,Justin Amash,Q1714165,,,,Representative,,MI
 Person,Tammy Baldwin,Q40628,,,,Senator,,WI
 Person,Lou Barletta,Q25568,,,,Representative,,PA
-Person,Joe Barton,,,,,Representative,,TX
+Person,Joe Barton,Q966261,,,,Representative,,TX
 Person,Karen Bass,Q461739,,,,Representative,,CA
 Person,Xavier Becerra,Q1855840,,,,Representative,,CA
 Person,Michael F. Bennet,Q554792,,,,Senator,,CO
-Person,Gus M. Bilirakis,,,,,Representative,,FL
+Person,Gus M. Bilirakis,Q1555314,,,,Representative,,FL
 Person,Rob Bishop,Q433857,,,,Representative,,UT
-Person,"Sanford D. Bishop, Jr.",,,,,Representative,,GA
+Person,"Sanford D. Bishop, Jr.",Q983428,,,,Representative,,GA
 Person,Diane Black,Q515935,,,,Representative,,TN
 Person,Marsha Blackburn,Q458971,,,,Representative,,TN
 Person,Earl Blumenauer,Q748066,,,,Representative,,OR
 Person,Richard Blumenthal,Q2023708,,,,Senator,,CT
 Person,Roy Blunt,Q1525924,,,,Senator,,MO
 Person,John Boozman,Q1344707,,,,Senator,,AR
-Person,Madeleine Z. Bordallo,,,,,Representative,,GU
+Person,Madeleine Z. Bordallo,Q292988,,,,Representative,,GU
 Person,Kevin Brady,Q472241,,,,Representative,,TX
-Person,Robert A. Brady,,,,,Representative,,PA
+Person,Robert A. Brady,Q434522,,,,Representative,,PA
 Person,Mo Brooks,Q1941306,,,,Representative,,AL
 Person,Vern Buchanan,Q2517229,,,,Representative,,FL
 Person,Larry Bucshon,Q944286,,,,Representative,,IN
@@ -123,68 +123,68 @@ Person,Richard Burr,Q331278,,,,Senator,,NC
 Person,G. K. Butterfield,Q983532,,,,Representative,,NC
 Person,Ken Calvert,Q538978,,,,Representative,,CA
 Person,Shelley Moore Capito,Q459618,,,,Senator,,WV
-Person,Michael E. Capuano,,,,,Representative,,MA
+Person,Michael E. Capuano,Q551578,,,,Representative,,MA
 Person,André Carson,Q517649,,,,Representative,,IN
-Person,John R. Carter,,,,,Representative,,TX
+Person,John R. Carter,Q369814,,,,Representative,,TX
 Person,Bill Cassidy,Q861999,,,,Senator,,LA
 Person,Kathy Castor,Q458492,,,,Representative,,FL
-Person,Steve Chabot,,,,,Representative,,OH
+Person,Steve Chabot,Q506694,,,,Representative,,OH
 Person,Jason Chaffetz,Q1683881,,,,Representative,,UT
 Person,Judy Chu,Q460035,,,,Representative,,CA
-Person,David N. Cicilline,,,,,Representative,,RI
-Person,Yvette D. Clarke,,,,,Representative,,NY
-Person,Wm. Lacy Clay,,,,,Representative,,MO
+Person,David N. Cicilline,Q506694,,,,Representative,,RI
+Person,Yvette D. Clarke,Q461679,,,,Representative,,NY
+Person,Wm. Lacy Clay,Q959455,,,,Representative,,MO
 Person,Emanuel Cleaver,Q1334654,,,,Representative,,MO
-Person,James E. Clyburn,,,,,Representative,,SC
-Person,Mike Coffman,,,,,Representative,,CO
+Person,James E. Clyburn,Q1289889,,,,Representative,,SC
+Person,Mike Coffman,Q547218,,,,Representative,,CO
 Person,Steve Cohen,Q512330,,,,Representative,,TN
 Person,Tom Cole,Q173839,,,,Representative,,OK
-Person,K. Michael Conaway,,,,,Representative,,TX
-Person,Gerald E. Connolly,,,,,Representative,,VA
-Person,"John Conyers, Jr.",,,,,Representative,,MI
+Person,K. Michael Conaway,Q538944,,,,Representative,,TX
+Person,Gerald E. Connolly,Q1514859,,,,Representative,,VA
+Person,"John Conyers, Jr.",Q1370968,,,,Representative,,MI
 Person,Jim Cooper,Q973737,,,,Representative,,TN
 Person,Jim Costa,Q675869,,,,Representative,,CA
 Person,Joe Courtney,Q5250917,,,,Representative,,CT
 Person,Mike Crapo,Q734319,,,,Senator,,ID
-Person,"Eric A. ""Rick"" Crawford",,,,,Representative,,AR
+Person,"Eric A. ""Rick"" Crawford",Q7331312,,,,Representative,,AR
 Person,Joseph Crowley,Q971318,,,,Representative,,NY
 Person,Henry Cuellar,Q539562,,,,Representative,,TX
-Person,John Abney Culberson,,,,,Representative,,TX
-Person,Elijah E. Cummings,,,,,Representative,,MD
+Person,John Abney Culberson,Q671976,,,,Representative,,TX
+Person,Elijah E. Cummings,Q934898,,,,Representative,,MD
 Person,Danny K. Davis,Q1164657,,,,Representative,,IL
-Person,Susan A. Davis,,,,,Representative,,CA
-Person,Peter A. DeFazio,,,,,Representative,,OR
+Person,Susan A. Davis,Q460675,,,,Representative,,CA
+Person,Peter A. DeFazio,Q1758507,,,,Representative,,OR
 Person,Diana DeGette,Q437159,,,,Representative,,CO
-Person,Rosa L. DeLauro,,,,,Representative,,CT
+Person,Rosa L. DeLauro,Q434952,,,,Representative,,CT
 Person,Jeff Denham,Q1686295,,,,Representative,,CA
-Person,Charles W. Dent,,,,,Representative,,PA
+Person,Charles W. Dent,Q556034,,,,Representative,,PA
 Person,Scott DesJarlais,Q2260839,,,,Representative,,TN
-Person,Theodore E. Deutch,,,,,Representative,,FL
-Person,Mario Diaz-Balart,,,,,Representative,,FL
+Person,Theodore E. Deutch,Q245724,,,,Representative,,FL
+Person,Mario Diaz-Balart,Q767270,,,,Representative,,FL
 Person,Lloyd Doggett,Q363817,,,,Representative,,TX
 Person,Joe Donnelly,Q1691395,,,,Senator,,IN
 Person,Michael F. Doyle,Q1344200,,,,Representative,,PA
-Person,Sean P. Duffy,,,,,Representative,,WI
+Person,Sean P. Duffy,Q1729888,,,,Representative,,WI
 Person,Jeff Duncan,Q11756263,,,,Representative,,SC
-Person,"John J. Duncan, Jr.",,,,,Representative,,TN
+Person,"John J. Duncan, Jr.",Q653994,,,,Representative,,TN
 Person,Keith Ellison,Q40589,,,,Representative,,MN
-Person,Eliot L. Engel,,,,,Representative,,NY
-Person,Anna G. Eshoo,,,,,Representative,,CA
+Person,Eliot L. Engel,Q1329618,,,,Representative,,NY
+Person,Anna G. Eshoo,Q291193,,,,Representative,,CA
 Person,Blake Farenthold,Q881255,,,,Representative,,TX
 Person,Jeff Flake,Q929581,,,,Senator,,AZ
-Person,"Charles J. ""Chuck"" Fleischmann",,,,,Representative,,TN
+Person,"Charles J. ""Chuck"" Fleischmann",Q521959,,,,Representative,,TN
 Person,Bill Flores,Q862103,,,,Representative,,TX
 Person,Jeff Fortenberry,Q1397331,,,,Representative,,NE
 Person,Virginia Foxx,Q458453,,,,Representative,,NC
 Person,Trent Franks,Q1397303,,,,Representative,,AZ
-Person,Rodney P. Frelinghuysen,,,,,Representative,,NJ
-Person,Marcia L. Fudge,,,,,Representative,,OH
+Person,Rodney P. Frelinghuysen,Q338190,,,,Representative,,NJ
+Person,Marcia L. Fudge,Q461746,,,,Representative,,OH
 Person,John Garamendi,Q1340268,,,,Representative,,CA
 Person,Cory Gardner,Q1135774,,,,Senator,,CO
 Person,Bob Gibbs,Q887945,,,,Representative,,OH
 Person,Louie Gohmert,Q532647,,,,Representative,,TX
 Person,Bob Goodlatte,Q887952,,,,Representative,,VA
-Person,Paul A. Gosar,,,,,Representative,,AZ
+Person,Paul A. Gosar,Q2059832,,,,Representative,,AZ
 Person,Trey Gowdy,Q1822266,,,,Representative,,SC
 Person,Kay Granger,Q468807,,,,Representative,,TX
 Person,Chuck Grassley,Q529294,,,,Senator,,IA
@@ -192,205 +192,205 @@ Person,Sam Graves,Q465638,,,,Representative,,MO
 Person,Tom Graves,Q1647301,,,,Representative,,GA
 Person,Al Green,Q313260,,,,Representative,,TX
 Person,Gene Green,Q539587,,,,Representative,,TX
-Person,H. Morgan Griffith,,,,,Representative,,VA
-Person,Raúl M. Grijalva,,,,,Representative,,AZ
+Person,H. Morgan Griffith,Q1684857,,,,Representative,,VA
+Person,Raúl M. Grijalva,Q946606,,,,Representative,,AZ
 Person,Brett Guthrie,Q910794,,,,Representative,,KY
-Person,Luis V. Gutiérrez,,,,,Representative,,IL
+Person,Luis V. Gutiérrez,Q718127,,,,Representative,,IL
 Person,Gregg Harper,Q1545023,,,,Representative,,MS
-Person,Andy Harris,,,,,Representative,,MD
+Person,Andy Harris,Q506639,,,,Representative,,MD
 Person,Vicky Hartzler,Q375389,,,,Representative,,MO
-Person,Alcee L. Hastings,,,,,Representative,,FL
+Person,Alcee L. Hastings,Q1758631,,,,Representative,,FL
 Person,Martin Heinrich,Q565374,,,,Senator,,NM
 Person,Jeb Hensarling,Q538785,,,,Representative,,TX
 Person,Jaime Herrera Beutler,Q168592,,,,Representative,,WA
 Person,Brian Higgins,Q505581,,,,Representative,,NY
-Person,James A. Himes,,,,,Representative,,CT
+Person,James A. Himes,Q1689111,,,,Representative,,CT
 Person,Mazie K. Hirono,Q16476,,,,Senator,,HI
 Person,John Hoeven,Q374762,,,,Senator,,ND
-Person,Steny H. Hoyer,,,,,Representative,,MD
+Person,Steny H. Hoyer,Q516515,,,,Representative,,MD
 Person,Bill Huizenga,Q862199,,,,Representative,,MI
 Person,Randy Hultgren,Q556404,,,,Representative,,IL
 Person,Duncan Hunter,Q527493,,,,Representative,,CA
 Person,Johnny Isakson,Q130024,,,,Senator,,GA
-Person,Darrell E. Issa,,,,,Representative,,CA
+Person,Darrell E. Issa,Q1166592,,,,Representative,,CA
 Person,Sheila Jackson Lee,Q461734,,,,Representative,,TX
-Person,Lynn Jenkins,,,,,Representative,,KS
+Person,Lynn Jenkins,Q456217,,,,Representative,,KS
 Person,Bill Johnson,Q353914,,,,Representative,,OH
 Person,Eddie Bernice Johnson,Q461526,,,,Representative,,TX
-Person,"Henry C. ""Hank"" Johnson, Jr.",,,,,Representative,,GA
+Person,"Henry C. ""Hank"" Johnson, Jr.",Q983537,,,,Representative,,GA
 Person,Ron Johnson,Q611060,,,,Senator,,WI
 Person,Sam Johnson,Q539470,,,,Representative,,TX
-Person,Walter B. Jones,,,,,Representative,,NC
-Person,Jim Jordan,,,,,Representative,,OH
+Person,Walter B. Jones,Q1126528,,,,Representative,,NC
+Person,Jim Jordan,Q186215,,,,Representative,,OH
 Person,Marcy Kaptur,Q436537,,,,Representative,,OH
-Person,William R. Keating,,,,,Representative,,MA
-Person,Mike Kelly,,,,,Representative,,PA
+Person,William R. Keating,Q2579570,,,,Representative,,MA
+Person,Mike Kelly,Q1431761,,,,Representative,,PA
 Person,Ron Kind,Q505222,,,,Representative,,WI
 Person,Peter T. King,Q953554,,,,Representative,,NY
 Person,Steve King,Q749710,,,,Representative,,IA
 Person,Adam Kinzinger,Q349955,,,,Representative,,IL
-Person,Raúl R. Labrador,,,,,Representative,,ID
+Person,Raúl R. Labrador,Q555393,,,,Representative,,ID
 Person,Doug Lamborn,Q371106,,,,Representative,,CO
 Person,Leonard Lance,Q1819021,,,,Representative,,NJ
-Person,James R. Langevin,,,,,Representative,,RI
+Person,James R. Langevin,Q1397290,,,,Representative,,RI
 Person,James Lankford,Q45940,,,,Senator,,OK
 Person,Rick Larsen,Q503529,,,,Representative,,WA
-Person,John B. Larson,,,,,Representative,,CT
-Person,Robert E. Latta,,,,,Representative,,OH
+Person,John B. Larson,Q357832,,,,Representative,,CT
+Person,Robert E. Latta,Q888061,,,,Representative,,OH
 Person,Patrick J. Leahy,Q59315,,,,Senator,,VT
 Person,Barbara Lee,Q289317,,,,Representative,,CA
 Person,Mike Lee,Q627098,,,,Senator,,UT
-Person,Sander M. Levin,,,,,Representative,,MI
+Person,Sander M. Levin,Q971943,,,,Representative,,MI
 Person,John Lewis,Q359218,,,,Representative,,GA
-Person,Daniel Lipinski,,,,,Representative,,IL
-Person,Frank A. LoBiondo,,,,,Representative,,NJ
-Person,David Loebsack,,,,,Representative,,IA
+Person,Daniel Lipinski,Q518424,,,,Representative,,IL
+Person,Frank A. LoBiondo,Q616850,,,,Representative,,NJ
+Person,David Loebsack,Q771586,,,,Representative,,IA
 Person,Zoe Lofgren,Q218217,,,,Representative,,CA
 Person,Billy Long,Q863171,,,,Representative,,MO
-Person,Nita M. Lowey,,,,,Representative,,NY
-Person,Frank D. Lucas,,,,,Representative,,OK
+Person,Nita M. Lowey,Q460652,,,,Representative,,NY
+Person,Frank D. Lucas,Q430556,,,,Representative,,OK
 Person,Blaine Luetkemeyer,Q522181,,,,Representative,,MO
 Person,Ben Ray Luján,Q324256,,,,Representative,,NM
 Person,Stephen F. Lynch,Q2344921,,,,Representative,,MA
-Person,Carolyn B. Maloney,,,,,Representative,,NY
+Person,Carolyn B. Maloney,Q455833,,,,Representative,,NY
 Person,Kenny Marchant,Q368184,,,,Representative,,TX
 Person,Tom Marino,Q2439864,,,,Representative,,PA
 Person,Edward J. Markey,Q1282411,,,,Senator,,MA
-Person,Doris O. Matsui,,,,,Representative,,CA
+Person,Doris O. Matsui,Q399561,,,,Representative,,CA
 Person,John McCain,Q10390,,,,Senator,,AZ
 Person,Kevin McCarthy,Q416145,,,,Representative,,CA
-Person,Michael T. McCaul,,,,,Representative,,TX
-Person,Tom McClintock,,,,,Representative,,CA
-Person,Betty McCollum,,,,,Representative,,MN
-Person,James P. McGovern,,,,,Representative,,MA
-Person,Patrick T. McHenry,,,,,Representative,,NC
-Person,David B. McKinley,,,,,Representative,,WV
+Person,Michael T. McCaul,Q539509,,,,Representative,,TX
+Person,Tom McClintock,Q535887,,,,Representative,,CA
+Person,Betty McCollum,Q434893,,,,Representative,,MN
+Person,James P. McGovern,Q1337459,,,,Representative,,MA
+Person,Patrick T. McHenry,Q2057809,,,,Representative,,NC
+Person,David B. McKinley,Q1175610,,,,Representative,,WV
 Person,Cathy McMorris Rodgers,Q293343,,,,Representative,,WA
 Person,Jerry McNerney,Q1344743,,,,Representative,,CA
 Person,Patrick Meehan,Q7147197,,,,Representative,,PA
-Person,Gregory W. Meeks,,,,,Representative,,NY
+Person,Gregory W. Meeks,Q1545391,,,,Representative,,NY
 Person,Gwen Moore,Q461698,,,,Representative,,WI
 Person,Jerry Moran,Q1365787,,,,Senator,,KS
 Person,Mick Mulvaney,Q1235731,,,,Representative,,SC
 Person,Lisa Murkowski,Q22360,,,,Senator,,AK
 Person,Christopher Murphy,Q1077594,,,,Senator,,CT
-Person,Tim Murphy,,,,,Representative,,PA
+Person,Tim Murphy,Q2434181,,,,Representative,,PA
 Person,Patty Murray,Q258825,,,,Senator,,WA
 Person,Jerrold Nadler,Q505598,,,,Representative,,NY
-Person,Grace F. Napolitano,,,,,Representative,,CA
-Person,Richard E. Neal,,,,,Representative,,MA
-Person,Kristi L. Noem,,,,,Representative,,SD
+Person,Grace F. Napolitano,Q469139,,,,Representative,,CA
+Person,Richard E. Neal,Q1464697,,,,Representative,,MA
+Person,Kristi L. Noem,Q465749,,,,Representative,,SD
 Person,Eleanor Holmes Norton,Q461649,,,,Representative,,DC
 Person,Devin Nunes,Q539493,,,,Representative,,CA
 Person,Pete Olson,Q2073303,,,,Representative,,TX
-Person,Steven M. Palazzo,,,,,Representative,,MS
-Person,"Frank Pallone, Jr.",,,,,Representative,,NJ
-Person,"Bill Pascrell, Jr.",,,,,Representative,,NJ
+Person,Steven M. Palazzo,Q24230,,,,Representative,,MS
+Person,"Frank Pallone, Jr.",Q965289,,,,Representative,,NJ
+Person,"Bill Pascrell, Jr.",Q529090,,,,Representative,,NJ
 Person,Rand Paul,Q463557,,,,Senator,,KY
 Person,Erik Paulsen,Q466085,,,,Representative,,MN
-Person,Stevan Pearce,,,,,Representative,,NM
+Person,Stevan Pearce,Q1206411,,,,Representative,,NM
 Person,Nancy Pelosi,Q170581,,,,Representative,,CA
 Person,Ed Perlmutter,Q331507,,,,Representative,,CO
 Person,Gary C. Peters,Q1494930,,,,Senator,,MI
-Person,Collin C. Peterson,,,,,Representative,,MN
+Person,Collin C. Peterson,Q434458,,,,Representative,,MN
 Person,Chellie Pingree,Q457243,,,,Representative,,ME
 Person,Ted Poe,Q532661,,,,Representative,,TX
 Person,Jared Polis,Q935734,,,,Representative,,CO
 Person,Mike Pompeo,Q473239,,,,Representative,,KS
 Person,Rob Portman,Q926069,,,,Senator,,OH
 Person,Bill Posey,Q862373,,,,Representative,,FL
-Person,David E. Price,,,,,Representative,,NC
+Person,David E. Price,Q440646,,,,Representative,,NC
 Person,Tom Price,Q358109,,,,Representative,,GA
 Person,Mike Quigley,Q11776365,,,,Representative,,IL
-Person,Tom Reed,,,,,Representative,,NY
-Person,David G. Reichert,,,,,Representative,,WA
-Person,James B. Renacci,,,,,Representative,,OH
-Person,Cedric L. Richmond,,,,,Representative,,LA
+Person,Tom Reed,Q2440035,,,,Representative,,NY
+Person,David G. Reichert,Q456464,,,,Representative,,WA
+Person,James B. Renacci,Q976676,,,,Representative,,OH
+Person,Cedric L. Richmond,Q561284,,,,Representative,,LA
 Person,Martha Roby,Q439117,,,,Representative,,AL
-Person,David P. Roe,,,,,Representative,,TN
+Person,David P. Roe,Q1665842,,,,Representative,,TN
 Person,Harold Rogers,Q5662228,,,,Representative,,KY
-Person,Mike Rogers,,,,,Representative,,AL
+Person,Mike Rogers,Q693238,,,,Representative,,AL
 Person,Dana Rohrabacher,Q983055,,,,Representative,,CA
 Person,Todd Rokita,Q1521384,,,,Representative,,IN
-Person,Thomas J. Rooney,,,,,Representative,,FL
+Person,Thomas J. Rooney,Q506110,,,,Representative,,FL
 Person,Ileana Ros-Lehtinen,Q265791,,,,Representative,,FL
-Person,Peter J. Roskam,,,,,Representative,,IL
+Person,Peter J. Roskam,Q968214,,,,Representative,,IL
 Person,Dennis A. Ross,Q1188940,,,,Representative,,FL
 Person,Lucille Roybal-Allard,Q469115,,,,Representative,,CA
-Person,Edward R. Royce,,,,,Representative,,CA
+Person,Edward R. Royce,Q1282477,,,,Representative,,CA
 Person,Marco Rubio,Q324546,,,,Senator,,FL
-Person,C. A. Dutch Ruppersberger,,,,,Representative,,MD
-Person,Bobby L. Rush,,,,,Representative,,IL
-Person,Paul D. Ryan,,,,,Representative,,WI
+Person,C. A. Dutch Ruppersberger,Q981559,,,,Representative,,MD
+Person,Bobby L. Rush,Q888599,,,,Representative,,IL
+Person,Paul D. Ryan,Q203966,,,,Representative,,WI
 Person,Tim Ryan,Q7804210,,,,Representative,,OH
-Person,Gregorio Kilili Camacho Sablan,,,,,Representative,,MP
-Person,John P. Sarbanes,,,,,Representative,,MD
+Person,Gregorio Kilili Camacho Sablan,Q3116336,,,,Representative,,MP
+Person,John P. Sarbanes,Q984509,,,,Representative,,MD
 Person,Steve Scalise,Q1857141,,,,Representative,,LA
-Person,Janice D. Schakowsky,,,,,Representative,,IL
-Person,Adam B. Schiff,,,,,Representative,,CA
+Person,Janice D. Schakowsky,Q440885,,,,Representative,,IL
+Person,Adam B. Schiff,Q350843,,,,Representative,,CA
 Person,Kurt Schrader,Q1387868,,,,Representative,,OR
 Person,Charles E. Schumer,Q380900,,,,Senator,,NY
 Person,David Schweikert,Q1176561,,,,Representative,,AZ
 Person,Austin Scott,Q4823273,,,,Representative,,GA
 Person,David Scott,Q278656,,,,Representative,,GA
-Person,"Robert C. ""Bobby"" Scott",,,,,Representative,,VA
+Person,"Robert C. ""Bobby"" Scott",Q888668,,,,Representative,,VA
 Person,Tim Scott,Q561315,,,,Senator,,SC
-Person,"F. James Sensenbrenner, Jr.",,,,,Representative,,WI
+Person,"F. James Sensenbrenner, Jr.",Q952268,,,,Representative,,WI
 Person,José E. Serrano,Q460267,,,,Representative,,NY
 Person,Pete Sessions,Q437852,,,,Representative,,TX
-Person,Terri A. Sewell,,,,,Representative,,AL
+Person,Terri A. Sewell,Q461621,,,,Representative,,AL
 Person,Richard C. Shelby,Q472254,,,,Senator,,AL
-Person,Brad Sherman,,,,,Representative,,CA
+Person,Brad Sherman,Q672919,,,,Representative,,CA
 Person,John Shimkus,Q1701747,,,,Representative,,IL
 Person,Bill Shuster,Q862455,,,,Representative,,PA
-Person,Michael K. Simpson,,,,,Representative,,ID
+Person,Michael K. Simpson,Q549521,,,,Representative,,ID
 Person,Albio Sires,Q527509,,,,Representative,,NJ
-Person,Louise McIntosh Slaughter,,,,,Representative,,NY
-Person,Adam Smith,,,,,Representative,,WA
+Person,Louise McIntosh Slaughter,Q299833,,,,Representative,,NY
+Person,Adam Smith,Q350916,,,,Representative,,WA
 Person,Adrian Smith,Q212070,,,,Representative,,NE
-Person,Christopher H. Smith,,,,,Representative,,NJ
+Person,Christopher H. Smith,Q981167,,,,Representative,,NJ
 Person,Lamar Smith,Q6480915,,,,Representative,,TX
 Person,Jackie Speier,Q218544,,,,Representative,,CA
 Person,Steve Stivers,Q324099,,,,Representative,,OH
-Person,Linda T. Sánchez,,,,,Representative,,CA
-Person,Bennie G. Thompson,,,,,Representative,,MS
-Person,Mike Thompson,,,,,Representative,,CA
+Person,Linda T. Sánchez,Q291143,,,,Representative,,CA
+Person,Bennie G. Thompson,Q817877,,,,Representative,,MS
+Person,Mike Thompson,Q1323196,,,,Representative,,CA
 Person,Glenn Thompson,Q5569144,,,,Representative,,PA
 Person,Mac Thornberry,Q539444,,,,Representative,,TX
 Person,John Thune,Q462981,,,,Senator,,SD
-Person,Patrick J. Tiberi,,,,,Representative,,OH
-Person,Scott R. Tipton,,,,,Representative,,CO
+Person,Patrick J. Tiberi,Q603467,,,,Representative,,OH
+Person,Scott R. Tipton,Q782994,,,,Representative,,CO
 Person,Paul Tonko,Q1373548,,,,Representative,,NY
 Person,Patrick J. Toomey,Q971308,,,,Senator,,PA
 Person,Niki Tsongas,Q440246,,,,Representative,,MA
-Person,Michael R. Turner,,,,,Representative,,OH
+Person,Michael R. Turner,Q505722,,,,Representative,,OH
 Person,Fred Upton,Q505236,,,,Representative,,MI
 Person,Chris Van Hollen,Q1077819,,,,Senator,,MD
-Person,Nydia M. Velázquez,,,,,Representative,,NY
-Person,Peter J. Visclosky,,,,,Representative,,IN
+Person,Nydia M. Velázquez,Q434890,,,,Representative,,NY
+Person,Peter J. Visclosky,Q514660,,,,Representative,,IN
 Person,Tim Walberg,Q978618,,,,Representative,,MI
 Person,Greg Walden,Q1397359,,,,Representative,,OR
-Person,Timothy J. Walz,,,,,Representative,,MN
+Person,Timothy J. Walz,Q2434360,,,,Representative,,MN
 Person,Debbie Wasserman Schultz,Q50104,,,,Representative,,FL
 Person,Maxine Waters,Q461727,,,,Representative,,CA
 Person,Daniel Webster,Q106231,,,,Representative,,FL
-Person,Peter Welch,,,,,Representative,,VT
-Person,Joe Wilson,,,,,Representative,,SC
-Person,Frederica S. Wilson,,,,,Representative,,FL
-Person,Robert J. Wittman,,,,,Representative,,VA
+Person,Peter Welch,Q1112656,,,,Representative,,VT
+Person,Joe Wilson,Q928855,,,,Representative,,SC
+Person,Frederica S. Wilson,Q461504,,,,Representative,,FL
+Person,Robert J. Wittman,Q541251,,,,Representative,,VA
 Person,Steve Womack,Q1029527,,,,Representative,,AR
 Person,Rob Woodall,Q2156128,,,,Representative,,GA
 Person,Ron Wyden,Q529344,,,,Senator,,OR
-Person,John A. Yarmuth,,,,,Representative,,KY
+Person,John A. Yarmuth,Q699970,,,,Representative,,KY
 Person,Kevin Yoder,Q187037,,,,Representative,,KS
 Person,Don Young,Q1239590,,,,Representative,,AK
 Person,Todd Young,Q25483,,,,Senator,,IN
 Person,Dean Heller,Q251763,,,,Senator,,NV
-Person,Mark E. Amodei,,,,,Representative,,NV
+Person,Mark E. Amodei,Q23944,,,,Representative,,NV
 Person,Suzanne Bonamici,Q45946,,,,Representative,,OR
-Person,Suzan K. DelBene,,,,,Representative,,WA
+Person,Suzan K. DelBene,Q2091892,,,,Representative,,WA
 Person,Thomas Massie,Q2426031,,,,Representative,,KY
-Person,"Donald M. Payne, Jr.",,,,,Representative,,NJ
+Person,"Donald M. Payne, Jr.",Q1240224,,,,Representative,,NJ
 Person,Brian Schatz,Q1827902,,,,Senator,,HI
 Person,Bill Foster,Q3639970,,,,Representative,,IL
 Person,Dina Titus,Q524440,,,,Representative,,NV
@@ -401,33 +401,33 @@ Person,Jared Huffman,Q3276717,,,,Representative,,CA
 Person,Ami Bera,Q3389105,,,,Representative,,CA
 Person,Paul Cook,Q363260,,,,Representative,,CA
 Person,Eric Swalwell,Q3466996,,,,Representative,,CA
-Person,David G. Valadao,,,,,Representative,,CA
+Person,David G. Valadao,Q3528567,,,,Representative,,CA
 Person,Julia Brownley,Q3577073,,,,Representative,,CA
 Person,Tony Cárdenas,Q3620422,,,,Representative,,CA
-Person,Raul Ruiz,,,,,Representative,,CA
+Person,Raul Ruiz,Q3701994,,,,Representative,,CA
 Person,Mark Takano,Q399593,,,,Representative,,CA
-Person,Alan S. Lowenthal,,,,,Representative,,CA
-Person,Juan Vargas,,,,,Representative,,CA
-Person,Scott H. Peters,,,,,Representative,,CA
-Person,Elizabeth H. Esty,,,,,Representative,,CT
-Person,Ted S. Yoho,,,,,Representative,,FL
+Person,Alan S. Lowenthal,Q3740782,,,,Representative,,CA
+Person,Juan Vargas,Q3791701,,,,Representative,,CA
+Person,Scott H. Peters,Q3791514,,,,Representative,,CA
+Person,Elizabeth H. Esty,Q3090454,,,,Representative,,CT
+Person,Ted S. Yoho,Q3090476,,,,Representative,,FL
 Person,Ron DeSantis,Q3105215,,,,Representative,,FL
 Person,Lois Frankel,Q3182451,,,,Representative,,FL
 Person,Doug Collins,Q5300373,,,,Representative,,GA
-Person,Tulsi Gabbard,,,,,Representative,,HI
+Person,Tulsi Gabbard,Q32620,,,,Representative,,HI
 Person,Tammy Duckworth,Q3036410,,,,Senator,,IL
 Person,Rodney Davis,Q7356899,,,,Representative,,IL
 Person,Cheri Bustos,Q723148,,,,Representative,,IL
 Person,Jackie Walorski,Q3157413,,,,Representative,,IN
-Person,Susan W. Brooks,,,,,Representative,,IN
+Person,Susan W. Brooks,Q3225324,,,,Representative,,IN
 Person,Luke Messer,Q3225316,,,,Representative,,IN
 Person,Andy Barr,Q4760399,,,,Representative,,KY
 Person,Elizabeth Warren,Q434706,,,,Senator,,MA
 Person,Joseph P. Kennedy III,Q1707784,,,,Representative,,MA
-Person,John K. Delaney,,,,,Representative,,MD
+Person,John K. Delaney,Q2688821,,,,Representative,,MD
 Person,"Angus S. King, Jr.",Q544464,,,,Senator,,ME
-Person,Daniel T. Kildee,,,,,Representative,,MI
-Person,Richard M. Nolan,,,,,Representative,,MN
+Person,Daniel T. Kildee,Q3880272,,,,Representative,,MI
+Person,Richard M. Nolan,Q2151594,,,,Representative,,MN
 Person,Ann Wagner,Q3917251,,,,Representative,,MO
 Person,Steve Daines,Q3200900,,,,Senator,,MT
 Person,Richard Hudson,Q7326584,,,,Representative,,NC
@@ -437,95 +437,95 @@ Person,George Holding,Q3956828,,,,Representative,,NC
 Person,Heidi Heitkamp,Q50597,,,,Senator,,ND
 Person,Kevin Cramer,Q3957020,,,,Representative,,ND
 Person,Deb Fischer,Q2580649,,,,Senator,,NE
-Person,Ann M. Kuster,,,,,Representative,,NH
+Person,Ann M. Kuster,Q3917208,,,,Representative,,NH
 Person,Michelle Lujan Grisham,Q3917203,,,,Representative,,NM
 Person,Grace Meng,Q5591303,,,,Representative,,NY
-Person,Hakeem S. Jeffries,,,,,Representative,,NY
+Person,Hakeem S. Jeffries,Q5640425,,,,Representative,,NY
 Person,Sean Patrick Maloney,Q2262244,,,,Representative,,NY
 Person,Chris Collins,Q5106217,,,,Representative,,NY
-Person,Brad R. Wenstrup,,,,,Representative,,OH
+Person,Brad R. Wenstrup,Q892413,,,,Representative,,OH
 Person,Joyce Beatty,Q976417,,,,Representative,,OH
-Person,David P. Joyce,,,,,Representative,,OH
+Person,David P. Joyce,Q5235771,,,,Representative,,OH
 Person,Jim Bridenstine,Q3601035,,,,Representative,,OK
 Person,Markwayne Mullin,Q3448772,,,,Representative,,OK
 Person,Scott Perry,Q7437034,,,,Representative,,PA
-Person,Keith J. Rothfus,,,,,Representative,,PA
+Person,Keith J. Rothfus,Q5978897,,,,Representative,,PA
 Person,Matt Cartwright,Q4111531,,,,Representative,,PA
 Person,Tom Rice,Q3956858,,,,Representative,,SC
 Person,Ted Cruz,Q2036942,,,,Senator,,TX
-Person,"Randy K. Weber, Sr.",,,,,Representative,,TX
+Person,"Randy K. Weber, Sr.",Q556404,,,,Representative,,TX
 Person,Beto O'Rourke,Q4014532,,,,Representative,,TX
-Person,Joaquin Castro,,,,,Representative,,TX
+Person,Joaquin Castro,Q1167934,,,,Representative,,TX
 Person,Roger Williams,Q391591,,,,Representative,,TX
-Person,Marc A. Veasey,,,,,Representative,,TX
-Person,Filemon Vela,,,,,Representative,,TX
+Person,Marc A. Veasey,Q4068811,,,,Representative,,TX
+Person,Filemon Vela,Q4069225,,,,Representative,,TX
 Person,Chris Stewart,Q1077768,,,,Representative,,UT
 Person,Tim Kaine,Q359888,,,,Senator,,VA
 Person,Derek Kilmer,Q4068828,,,,Representative,,WA
-Person,Denny Heck,,,,,Representative,,WA
+Person,Denny Heck,Q4068793,,,,Representative,,WA
 Person,Mark Pocan,Q1900355,,,,Representative,,WI
-Person,Robin L. Kelly,,,,,Representative,,IL
+Person,Robin L. Kelly,Q3437091,,,,Representative,,IL
 Person,Mark Sanford,Q11669,,,,Representative,,SC
 Person,Jason Smith,Q1683991,,,,Representative,,MO
 Person,Cory A. Booker,Q1135767,,,,Senator,,NJ
-Person,Katherine M. Clark,,,,,Representative,,MA
+Person,Katherine M. Clark,Q6376330,,,,Representative,,MA
 Person,Bradley Byrne,Q4954892,,,,Representative,,AL
 Person,Dave Brat,Q17160419,,,,Representative,,VA
 Person,Donald Norcross,Q5294942,,,,Representative,,NJ
-Person,Alma S. Adams,,,,,Representative,,NC
-Person,Gary J. Palmer,,,,,Representative,,AL
-Person,J. French Hill,,,,,Representative,,AR
+Person,Alma S. Adams,Q4733597,,,,Representative,,NC
+Person,Gary J. Palmer,Q17386504,,,,Representative,,AL
+Person,J. French Hill,Q18631366,,,,Representative,,AR
 Person,Bruce Westerman,Q16197421,,,,Representative,,AR
 Person,Martha McSally,Q6774492,,,,Representative,,AZ
 Person,Ruben Gallego,Q16218474,,,,Representative,,AZ
 Person,Mark DeSaulnier,Q6767311,,,,Representative,,CA
-Person,Stephen Knight,,,,,Representative,,CA
+Person,Stephen Knight,Q7613060,,,,Representative,,CA
 Person,Pete Aguilar,Q7171821,,,,Representative,,CA
 Person,Ted Lieu,Q7693450,,,,Representative,,CA
-Person,Norma J. Torres,,,,,Representative,,CA
+Person,Norma J. Torres,Q3343727,,,,Representative,,CA
 Person,Mimi Walters,Q6862199,,,,Representative,,CA
 Person,Ken Buck,Q1439421,,,,Representative,,CO
 Person,Carlos Curbelo,Q18914103,,,,Representative,,FL
-Person,"Earl L. ""Buddy"" Carter",,,,,Representative,,GA
-Person,Jody B. Hice,,,,,Representative,,GA
+Person,"Earl L. ""Buddy"" Carter",Q16240994,,,,Representative,,GA
+Person,Jody B. Hice,Q6208081,,,,Representative,,GA
 Person,Barry Loudermilk,Q16731643,,,,Representative,,GA
 Person,Rick W. Allen,Q18683976,,,,Representative,,GA
 Person,Rod Blum,Q18684853,,,,Representative,,IA
 Person,David Young,Q442037,,,,Representative,,IA
 Person,Mike Bost,Q6846090,,,,Representative,,IL
-Person,Ralph Lee Abraham,,,,,Representative,,LA
+Person,Ralph Lee Abraham,Q973595,,,,Representative,,LA
 Person,Garret Graves,Q18686454,,,,Representative,,LA
 Person,Seth Moulton,Q18045052,,,,Representative,,MA
 Person,Bruce Poliquin,Q4978147,,,,Representative,,ME
-Person,John R. Moolenaar,,,,,Representative,,MI
-Person,Mike Bishop,,,,,Representative,,MI
-Person,David A. Trott,,,,,Representative,,MI
+Person,John R. Moolenaar,Q16194212,,,,Representative,,MI
+Person,Mike Bishop,Q16196834,,,,Representative,,MI
+Person,David A. Trott,Q16982345,,,,Representative,,MI
 Person,Debbie Dingell,Q5248232,,,,Representative,,MI
-Person,Brenda L. Lawrence,,,,,Representative,,MI
+Person,Brenda L. Lawrence,Q4960712,,,,Representative,,MI
 Person,Tom Emmer,Q7815723,,,,Representative,,MN
-Person,Ryan K. Zinke,,,,,Representative,,MT
+Person,Ryan K. Zinke,Q7384672,,,,Representative,,MT
 Person,David Rouzer,Q5239255,,,,Representative,,NC
-Person,Thomas MacArthur,,,,,Representative,,NJ
+Person,Thomas MacArthur,Q18631218,,,,Representative,,NJ
 Person,Bonnie Watson Coleman,Q4942457,,,,Representative,,NJ
-Person,Lee M. Zeldin,,,,,Representative,,NY
-Person,Kathleen M. Rice,,,,,Representative,,NY
-Person,Elise M. Stefanik,,,,,Representative,,NY
+Person,Lee M. Zeldin,Q16221257,,,,Representative,,NY
+Person,Kathleen M. Rice,Q6376887,,,,Representative,,NY
+Person,Elise M. Stefanik,Q18211057,,,,Representative,,NY
 Person,John Katko,Q18619043,,,,Representative,,NY
 Person,Steve Russell,Q20759843,,,,Representative,,OK
-Person,Ryan A. Costello,,,,,Representative,,PA
-Person,Brendan F. Boyle,,,,,Representative,,PA
+Person,Ryan A. Costello,Q18631846,,,,Representative,,PA
+Person,Brendan F. Boyle,Q4960876,,,,Representative,,PA
 Person,John Ratcliffe,Q11776381,,,,Representative,,TX
 Person,Will Hurd,Q18639742,,,,Representative,,TX
 Person,Brian Babin,Q16979824,,,,Representative,,TX
-Person,Mia B. Love,,,,,Representative,,UT
-Person,"Donald S. Beyer, Jr.",,,,,Representative,,VA
+Person,Mia B. Love,Q18631846,,,,Representative,,UT
+Person,"Donald S. Beyer, Jr.",Q3036086,,,,Representative,,VA
 Person,Barbara Comstock,Q4858820,,,,Representative,,VA
-Person,Stacey E. Plaskett,,,,,Representative,,VI
+Person,Stacey E. Plaskett,Q18739104,,,,Representative,,VI
 Person,Dan Newhouse,Q16733285,,,,Representative,,WA
 Person,Glenn Grothman,Q5568836,,,,Representative,,WI
-Person,Alexander X. Mooney,,,,,Representative,,WV
-Person,Evan H. Jenkins,,,,,Representative,,WV
-Person,Aumua Amata Coleman Radewagen,,,,,Representative,,AS
+Person,Alexander X. Mooney,Q4718026,,,,Representative,,WV
+Person,Evan H. Jenkins,Q11044698,,,,Representative,,WV
+Person,Aumua Amata Coleman Radewagen,Q18684027,,,,Representative,,AS
 Person,Daniel Sullivan,Q5218865,,,,Senator,,AK
 Person,David Perdue,Q17402717,,,,Senator,,GA
 Person,Joni Ernst,Q13475242,,,,Senator,,IA
@@ -533,8 +533,8 @@ Person,Thom Tillis,Q7786750,,,,Senator,,NC
 Person,Mike Rounds,Q722503,,,,Senator,,SD
 Person,Mark Walker,Q16876455,,,,Representative,,NC
 Person,Ben Sasse,Q16192221,,,,Senator,,NE
-Person,"Daniel M. Donovan, Jr.",,,,,Representative,,NY
-Person,Trent Kelly,,,,,Representative,,MS
+Person,"Daniel M. Donovan, Jr.",Q5216988,,,,Representative,,NY
+Person,Trent Kelly,Q20204915,,,,Representative,,MS
 Person,Darin LaHood,Q5222780,,,,Representative,,IL
 Person,Warren Davidson,Q24458117,,,,Representative,,OH
 Person,Colleen Hanabusa,Q276359,,,,Representative,,HI
@@ -544,58 +544,58 @@ Person,Kamala D. Harris,Q10853588,,,,Senator,,CA
 Person,John Kennedy,Q6250211,,,,Senator,,LA
 Person,Margaret Wood Hassan,Q24053,,,,Senator,,NH
 Person,Catherine Cortez Masto,Q5052604,,,,Senator,,NV
-Person,Bradley Scott Schneider,,,,,Representative,,IL
+Person,Bradley Scott Schneider,Q2923426,,,,Representative,,IL
 Person,Carol Shea-Porter,Q434112,,,,Representative,,NH
 Person,Tom O'Halleran,Q7817086,,,,Representative,,AZ
 Person,Andy Biggs,Q4760435,,,,Representative,,AZ
 Person,Ro Khanna,Q7339221,,,,Representative,,CA
 Person,Jimmy Panetta,Q27733776,,,,Representative,,CA
-Person,Salud O. Carbajal,,,,,Representative,,CA
-Person,Nanette Diaz Barragán,,,,,Representative,,CA
-Person,J. Luis Correa,,,,,Representative,,CA
+Person,Salud O. Carbajal,Q27805429,,,,Representative,,CA
+Person,Nanette Diaz Barragán,Q21662745,,,,Representative,,CA
+Person,J. Luis Correa,Q6685454,,,,Representative,,CA
 Person,Lisa Blunt Rochester,Q26899141,,,,Representative,,DE
 Person,Matt Gaetz,Q16221742,,,,Representative,,FL
-Person,Neal P. Dunn,,,,,Representative,,FL
-Person,John H. Rutherford,,,,,Representative,,FL
-Person,"Al Lawson, Jr.",,,,,Representative,,FL
-Person,Stephanie N. Murphy,,,,,Representative,,FL
+Person,Neal P. Dunn,Q27733851,,,,Representative,,FL
+Person,John H. Rutherford,Q529349,,,,Representative,,FL
+Person,"Al Lawson, Jr.",Q4723052,,,,Representative,,FL
+Person,Stephanie N. Murphy,Q27804538,,,,Representative,,FL
 Person,Darren Soto,Q5225162,,,,Representative,,FL
-Person,Val Butler Demings,,,,,Representative,,FL
+Person,Val Butler Demings,Q2517229,,,,Representative,,FL
 Person,Charlie Crist,Q374693,,,,Representative,,FL
-Person,Brian J. Mast,,,,,Representative,,FL
+Person,Brian J. Mast,Q27733854,,,,Representative,,FL
 Person,Francis Rooney,Q5482337,,,,Representative,,FL
-Person,A. Drew Ferguson IV,,,,,Representative,,GA
+Person,A. Drew Ferguson IV,Q5307173,,,,Representative,,GA
 Person,Raja Krishnamoorthi,Q7285471,,,,Representative,,IL
 Person,Jim Banks,Q16146788,,,,Representative,,IN
 Person,Trey Hollingsworth,Q27804536,,,,Representative,,IN
-Person,Roger W. Marshall,,,,,Representative,,KS
+Person,Roger W. Marshall,Q27943467,,,,Representative,,KS
 Person,Clay Higgins,Q25849505,,,,Representative,,LA
-Person,Mike Johnson,,,,,Representative,,LA
+Person,Mike Johnson,Q19880665,,,,Representative,,LA
 Person,Anthony G. Brown,Q4772558,,,,Representative,,MD
 Person,Jamie Raskin,Q640835,,,,Representative,,MD
 Person,Jack Bergman,Q6262116,,,,Representative,,MI
 Person,Paul Mitchell,Q7152552,,,,Representative,,MI
 Person,Jason Lewis,Q1683937,,,,Representative,,MN
 Person,Ted Budd,Q27733792,,,,Representative,,NC
-Person,Don Bacon,,,,,Representative,,NE
+Person,Don Bacon,Q19757583,,,,Representative,,NE
 Person,Josh Gottheimer,Q6288908,,,,Representative,,NJ
 Person,Jacky Rosen,Q27825033,,,,Representative,,NV
 Person,Ruben Kihuen,Q7375978,,,,Representative,,NV
-Person,Thomas R. Suozzi,,,,,Representative,,NY
+Person,Thomas R. Suozzi,Q7794276,,,,Representative,,NY
 Person,Adriano Espaillat,Q4685569,,,,Representative,,NY
-Person,John J. Faso,,,,,Representative,,NY
+Person,John J. Faso,Q5856885,,,,Representative,,NY
 Person,Claudia Tenney,Q5129263,,,,Representative,,NY
-Person,Brian K. Fitzpatrick,,,,,Representative,,PA
+Person,Brian K. Fitzpatrick,Q912161,,,,Representative,,PA
 Person,Lloyd Smucker,Q6662742,,,,Representative,,PA
-Person,Jenniffer González-Colón,,,,,Representative,,PR
+Person,Jenniffer González-Colón,Q16215793,,,,Representative,,PR
 Person,David Kustoff,Q26923148,,,,Representative,,TN
-Person,Vicente Gonzalez,,,,,Representative,,TX
-Person,Jodey C. Arrington,,,,,Representative,,TX
+Person,Vicente Gonzalez,Q5946897,,,,Representative,,TX
+Person,Jodey C. Arrington,Q6207815,,,,Representative,,TX
 Person,Scott Taylor,Q7437353,,,,Representative,,VA
-Person,A. Donald McEachin,,,,,Representative,,VA
-Person,"Thomas A. Garrett, Jr.",,,,,Representative,,VA
+Person,A. Donald McEachin,Q4647699,,,,Representative,,VA
+Person,"Thomas A. Garrett, Jr.",Q16213961,,,,Representative,,VA
 Person,Pramila Jayapal,Q18978140,,,,Representative,,WA
-Person,Mike Gallagher,,,,,Representative,,WI
+Person,Mike Gallagher,Q27842981,,,,Representative,,WI
 Person,Liz Cheney,Q5362573,,,,Representative,,WY
 Political Organization,"Donald Trump presidential campaign, 2016",Q20121517,,,,,,
 Private Sector Company,Goldman Sachs,Q193326,,,,,,
@@ -688,7 +688,7 @@ Private Sector Company,IBM,Q37156,,,,,,
 Nonprofit,Trump Foundation,,,,,,,
 Private Sector Company,Trump University,,,,,,,
 Government Organization,Florida Attorney General,,,,,,,
-Person,Pam Bondi,,,,,Florida Attorney General,,
+Person,Pam Bondi,Q7128915,,,,Florida Attorney General,,
 Private Sector Company,And Justice For All,,,,,,,
 Ambassador,China,,U.S. Ambassador to China,,,,,
 Ambassador,Israel,,U.S. Ambassador to Israel,,,,,

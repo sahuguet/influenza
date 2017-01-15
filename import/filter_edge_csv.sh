@@ -12,13 +12,9 @@ echo "Government Organization -Regulatory Action-> Private Sector Company"
 head -1 edges.csv | perl -pe's/ //g' > /tmp/edges_gov_cos.csv
 ruby -r csv -ne'row = CSV.parse($_).first; puts $_ if row[0] == "Government Organization" && row[3] == "Private Sector Company"' edges.csv >> /tmp/edges_gov_cos.csv
 
-echo "Nonprofit -Paid-> Person"
+echo "Nonprofit -Pays-> Person"
 head -1 edges.csv | perl -pe's/ //g' > /tmp/edges_nonprofits_people.csv
 ruby -r csv -ne'row = CSV.parse($_).first; puts $_ if row[0] == "Nonprofit" && row[3] == "Person"' edges.csv >> /tmp/edges_nonprofits_people.csv
-
-echo "Person -Nominee-> Cabinet Position"
-head -1 edges.csv | perl -pe's/ //g' > /tmp/edges_people_cabinet.csv
-ruby -r csv -ne'row = CSV.parse($_).first; puts $_ if row[0] == "Person" && row[3] == "Cabinet Position"' edges.csv >> /tmp/edges_people_cabinet.csv
 
 echo "Person -Advised-> Private Sector Company"
 echo "Person -Owner-> Private Sector Company"
@@ -53,6 +49,10 @@ ruby -r csv -ne'row = CSV.parse($_).first; puts $_ if row[0] == "Person" && ( ro
 echo "Person -Nominee-> Ambassador"
 head -1 edges.csv | perl -pe's/ //g' > /tmp/edges_people_ambassador.csv
 ruby -r csv -ne'row = CSV.parse($_).first; puts $_ if row[0] == "Person" && row[3] == "Ambassador"' edges.csv >> /tmp/edges_people_ambassador.csv
+
+echo "Person -Nominee-> Cabinet Position"
+head -1 edges.csv | perl -pe's/ //g' > /tmp/edges_people_cabinet.csv
+ruby -r csv -ne'row = CSV.parse($_).first; puts $_ if row[0] == "Person" && row[3] == "Cabinet Position"' edges.csv >> /tmp/edges_people_cabinet.csv
 
 echo "Senate Committee -Confirms Nominee-> Ambassador"
 head -1 edges.csv | perl -pe's/ //g' > /tmp/edges_committee_ambassador.csv
