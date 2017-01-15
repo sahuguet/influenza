@@ -15,7 +15,7 @@ USING PERIODIC COMMIT
 LOAD CSV WITH HEADERS FROM "file:///tmp/edges_nonprofits_people.csv" AS row
 MATCH (n:Nonprofit {name: row.FromName})
 MATCH (p:Person {name: row.ToName})
-MERGE (p)-[:PAYS]->(p);
+MERGE (n)-[:PAYS]->(p);
 
 USING PERIODIC COMMIT
 LOAD CSV WITH HEADERS FROM "file:///tmp/edges_people_cabinet.csv" AS row
