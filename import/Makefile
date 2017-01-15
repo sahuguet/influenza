@@ -8,9 +8,9 @@ NODES_SOURCE=import_nodes.cypher
 EDGES_SOURCE=import_edges.cypher
 
 default:
-	#curl -s -L -o nodes.csv https://docs.google.com/spreadsheets/d/1xfVnkYjQKs3DHvhgRhMLz9W6MG6dcfU0yHcRmMX8h7c/export?format=csv&id=1xfVnkYjQKs3DHvhgRhMLz9W6MG6dcfU0yHcRmMX8h7c&gid=0
+	#mv -f ~/Downloads/Debug\ Politics\ -\ Influenza\ -\ Nodes.csv nodes.csv
 	sh filter_node_csv.sh
-	#curl -s -L -o edges.csv https://docs.google.com/spreadsheets/d/1xfVnkYjQKs3DHvhgRhMLz9W6MG6dcfU0yHcRmMX8h7c/export?format=csv&id=1xfVnkYjQKs3DHvhgRhMLz9W6MG6dcfU0yHcRmMX8h7c&gid=752680471k
+	#mv -f ~/Downloads/Debug\ Politics\ -\ Influenza\ -\ Edges.csv edges.csv
 	sh filter_edge_csv.sh
 	neo4j-shell -path influenza.db -file $(NODES_SOURCE)
 	neo4j-shell -path influenza.db -c 'schema await'
