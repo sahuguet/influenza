@@ -5,7 +5,7 @@ head -1 nodes.csv | perl -pe's/ //g' > /tmp/nodes_cabinet_positions.csv
 grep '^Cabinet Position' nodes.csv >> /tmp/nodes_cabinet_positions.csv
 
 head -1 nodes.csv | perl -pe's/ //g' > /tmp/nodes_committees.csv
-grep '^Committee' nodes.csv >> /tmp/nodes_committees.csv
+grep '^House Committee' nodes.csv >> /tmp/nodes_committees.csv
 grep '^Senate Committee' nodes.csv >> /tmp/nodes_committees.csv
 
 head -1 nodes.csv | perl -pe's/ //g' > /tmp/nodes_gov_orgs.csv

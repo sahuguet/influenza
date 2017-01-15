@@ -62,3 +62,9 @@ MATCH (p:Person {name: row.FromName})
 MATCH (c:CabinetPosition {name: row.ToName})
 MERGE (p)-[:NOMINEE]->(c);
 
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:///tmp/edges_committee_cabinet.csv" AS row
+MATCH (c1:Committee {name: row.FromName})
+MATCH (c2:CabinetPosition {name: row.ToName})
+MERGE (c1)-[:CONFIRMS]->(c2);
+

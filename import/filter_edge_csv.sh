@@ -25,7 +25,6 @@ grep ',Advised,' edges.csv >> /tmp/edges_people_cos.csv
 
 # company-person edges
 head -1 edges.csv | perl -pe's/ //g' > /tmp/edges_cos_people.csv
-grep ',Campaign Contribution,' edges.csv >> /tmp/edges_cos_people.csv
 grep ',PAC Contribution,' edges.csv >> /tmp/edges_cos_people.csv
 grep ',Employs,' edges.csv >> /tmp/edges_cos_people.csv
 
@@ -39,7 +38,7 @@ grep ',Nominee,' edges.csv >> /tmp/edges_people_cabinet.csv
 
 # committee-cabinet edges
 head -1 edges.csv | perl -pe's/ //g' > /tmp/edges_committee_cabinet.csv
-grep ',Committee Nominee,' edges.csv >> /tmp/edges_committee_cabinet.csv
+grep ',Confirms Nominee,' edges.csv >> /tmp/edges_committee_cabinet.csv
 
 echo "Filtered edges"
 
