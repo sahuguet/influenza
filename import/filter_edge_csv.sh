@@ -1,5 +1,5 @@
 
-# Confirms Nominee
+echo "Filtering edges"
 
 # company-company edges
 head -1 edges.csv | perl -pe's/ //g' > /tmp/edges_companies.csv
@@ -40,4 +40,6 @@ grep ',Nominee,' edges.csv >> /tmp/edges_people_cabinet.csv
 # committee-cabinet edges
 head -1 edges.csv | perl -pe's/ //g' > /tmp/edges_committee_cabinet.csv
 grep ',Committee Nominee,' edges.csv >> /tmp/edges_committee_cabinet.csv
+
+echo "Filtered edges"
 
