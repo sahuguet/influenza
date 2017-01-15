@@ -27,6 +27,7 @@ echo "Person -Nominated-> Person"
 echo "Person -Direct Report-> Person"
 echo "Person -PAC Contribution-> Person"
 echo "Person -Reports To-> Person"
+echo "Person -Parent-> Person"
 head -1 edges.csv | perl -pe's/ //g' > /tmp/edges_people.csv
 ruby -r csv -ne'row = CSV.parse($_).first; puts $_ if row[0] == "Person" && row[3] == "Person"' edges.csv >> /tmp/edges_people.csv
 

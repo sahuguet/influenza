@@ -45,7 +45,9 @@ FOREACH (t in CASE when row.Edge="Direct Report" THEN [1] ELSE [] END |
 FOREACH (t in CASE when row.Edge="Nominated" THEN [1] ELSE [] END |
          MERGE (p1)-[:NOMINATED]->(p2) )
 FOREACH (t in CASE when row.Edge="Married" THEN [1] ELSE [] END |
-         MERGE (p1)-[:MARRIED]->(p2) );
+         MERGE (p1)-[:MARRIED]->(p2) )
+FOREACH (t in CASE when row.Edge="Parent" THEN [1] ELSE [] END |
+         MERGE (p1)-[:PARENT]->(p2) );
 
 USING PERIODIC COMMIT
 LOAD CSV WITH HEADERS FROM "file:///tmp/edges_people_nonprofits.csv" AS row
